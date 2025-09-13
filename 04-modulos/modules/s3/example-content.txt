@@ -1,0 +1,18 @@
+Contenido de ejemplo creado por Terraform
+
+Detalles del bucket:
+- Nombre del bucket: ${bucket_name}
+- Proyecto: ${project_name}
+- Ambiente: ${environment}
+- Fecha de creación: ${created_date}
+
+Este archivo demuestra cómo usar templates en módulos de Terraform.
+
+Características del módulo S3:
+✓ Encriptación habilitada
+✓ Versionado configurado
+✓ Políticas de acceso aplicadas
+✓ Ciclo de vida configurado (opcional)
+✓ Notificaciones disponibles (opcional)
+
+Para más información sobre este módulo, revisa la documentación del proyecto.
